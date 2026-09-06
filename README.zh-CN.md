@@ -5,6 +5,8 @@
 ![CI](https://github.com/holdout-labs/lesson-book/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+> 收录于 [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) —— 量化库精选清单（Trading & Backtesting 板块）。
+
 ## 中文说明
 
 `lesson-book` 是本地优先、可复现的交易经验记录工具，也可以用于 A 股研究
