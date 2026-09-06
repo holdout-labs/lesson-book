@@ -18,7 +18,7 @@ the next time the same situation shows up —**before** you act. Python
 3.11+, **zero dependencies**, Windows / Linux / macOS. No LLM, no cloud, no
 statistics: the reminder is reproducible and auditable.
 
-**Status:** v0.1.1 alpha, published on PyPI. The matching logic is distilled from a production
+**Status:** v0.1.2 alpha, published on PyPI. The matching logic is distilled from a production
 trading system's lesson-matching module; this standalone package is new.
 
 ## Why this exists
