@@ -7,6 +7,10 @@
 
 > Featured in [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) — the curated list of quant libraries (Trading & Backtesting section).
 
+> Part of [Holdout](https://github.com/holdout-labs): open-source infrastructure for AI-assisted quantitative research. This tool owns the learning loop before an agent or researcher repeats an expensive mistake.
+
+> 属于 Holdout：AI 辅助量化投研的开源基础设施。本工具负责复盘记忆层，让昂贵错误在下一次行动前被看见。
+
 ## 中文说明
 
 `lesson-book` 是本地优先、可复现的交易经验记录工具，也可以用于 A 股研究
